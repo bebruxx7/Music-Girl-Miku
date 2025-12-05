@@ -11,3 +11,5 @@ It is a simple game that faced difficulties with 64-bit processor support and Ja
 Initially, I just wanted to play it on my own device but encountered launch issues.
 
 More about the game: https://project-diva.fandom.com/wiki/Music_Girl_Hatsune_Miku
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3ed9c540-d27f-459f-b6d3-84fd7c19bc1c" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/551ce107-32aa-4d8f-8300-0b63aa95150b" />
